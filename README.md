@@ -1,5 +1,8 @@
 # Tutorial de Uso de TypeScript en Angular
 
+Link al curso completo en Youtube:
+[TYPESCRIPT DESDE CERO POR SERGIE CODE](https://youtu.be/UTA5bykCx2c)
+
 Este tutorial te guiará a través de los pasos para usar TypeScript en una aplicación Angular. Aprenderás cómo definir modelos de datos, crear componentes y trabajar con condicionales en Angular utilizando TypeScript. El ejemplo se centrará en la visualización de una lista de alumnos y cursos en dos tablas diferentes en función de una condición.
 
 ## Paso 1: Configuración del Proyecto
